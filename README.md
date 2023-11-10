@@ -1,7 +1,9 @@
-## Hi, sou Filipe, estatístico(8/8) e analista de dados
+## HI, sou Filipe, estatístico e analista de dados
 
--  Data analysis
+-  Analista de Dados
 -  Estudando R, Pyhton, SQL, Estatística, marchine Learning...
 
 - 📫 Email: filipemateus@outlook.com
+
+- Aqui estão alguns trabalhos realizados para o amadurecimento na análise de dados.
 
