@@ -8,7 +8,7 @@
 - Aqui estão trabalhos realizados para o amadurecimento na análise de dados.
 
 - Alguns exemplos:
-- [Comparação dos tempos de pagamento realizada com teste de hipótese após mudança de sistema, ](https://github.com/filmateus/Data_analyses-/blob/main/Compara%C3%A7%C3%A3o%20pagamentos.ipynb)
+
 - [Construção de modelos de classificação para encontrar o tipo de escola do candidato com base nas notas](https://github.com/filmateus/Data_analyses-/blob/main/Enem/test_school.ipynb)
 
 - [Projeto completo de análise de dados envolvendo web scraping, sql e Power BI](https://github.com/filmateus/bot_BI_strans)
